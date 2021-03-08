@@ -1,0 +1,23 @@
+List of experiments
+
+              **PART-A (Core Concepts)**
+Implement DFID algorithm and compare its performance with DFS and BFS algorithm
+
+Implement Best-First Search algorithm
+
+Implementation of AND/OR/NOT Gate using single layer perceptron.
+
+Implementation of XOR Gate using a) Multi-layer perceptron/Error back propagation b) Radial Basis Function Network
+
+Implement Hebbian learning rule and Correlation learning rule
+
+           **PART-B (Applications)**
+Implement Find-S and candidate elimination algorithms
+
+Build a linear regression model housing prices
+
+Implement spam detection using Naïve Bayes Algorithm
+
+Implement hand writing classification using Support Vector Machines
+
+Implement FP-tree for finding co-occurring words in a twitter feed
